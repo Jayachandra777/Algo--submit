@@ -15,7 +15,7 @@
     "algorand-wallet-select": "^0.0.21",
     "algorand-walletconnect-qrcode-modal": "^1.7.4",
     "algosdk": "^1.15.0",
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "chart.js": "^2.8.0",
     "dayjs": "^1.10.7",
     "jquery": "^3.6.0",
